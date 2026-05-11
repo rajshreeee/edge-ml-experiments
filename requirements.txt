@@ -1,0 +1,12 @@
+numpy>=1.23.5,<1.26.0
+
+tensorflow==2.15.0
+tf_keras==2.15.0
+
+matplotlib>=3.7.0,<3.9.0
+
+opencv-python>=4.8.0
+notebook>=7.0.0
+tensorboard>=2.15.0
+tensorflow-datasets>=4.9.3
+tensorflow-model-optimization==0.8.0
