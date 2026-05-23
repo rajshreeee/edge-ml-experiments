@@ -1,8 +1,6 @@
 # Edge ML: Audio & Camera Classification
 
-Demo video (audio + camera):
-
-<video src="video.mp4" controls width="100%"></video>
+Demo video (audio + camera): [View online](https://abofi-my.sharepoint.com/:v:/g/personal/rajshree_rai_abo_fi/IQD0ob9OheecR6FP499iJQbXAa_xzoMxzSbm8qJ4twCOBgg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=91CimD) or download from [video.mp4](video.mp4)
 
 ## Setup
 
