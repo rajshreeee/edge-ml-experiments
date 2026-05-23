@@ -1,6 +1,8 @@
 # Edge ML: Audio & Camera Classification
 
-Demo video (audio + camera): [video.mp4](video.mp4)
+Demo video (audio + camera):
+
+<video src="video.mp4" controls width="100%"></video>
 
 ## Setup
 
